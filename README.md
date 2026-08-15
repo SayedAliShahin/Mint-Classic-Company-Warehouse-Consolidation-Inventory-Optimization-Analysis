@@ -1,4 +1,4 @@
-# Mint-Classic-Company Warehouse Consolidation Inventory Optimization Analysis
+# Mint_Classic_Company Warehouse Consolidation Inventory Optimization Analysis
 ## Business scenario
 Mint Classic Company, a retailer of classic model cars and vehicles is evaluating whether it can close one of its warehouses to reduce operational costs while maintaining sufficient inventory and its regular fulfillment service which they want to shop an order in 24 hours. The main goal of this project is to analyze the inventory and warehouse utilization capacities and identify the best candidate warehouse for closure.
 ## Skills demonstrated
